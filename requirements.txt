@@ -1,0 +1,7 @@
+matplotlib
+pandas
+numpy
+scikit-learn
+seaborn
+ipykernel
+nba_api
